@@ -8,9 +8,9 @@ Petrichor 岛为 MetaVoxel 世界当前最大的一个岛屿，岛上 80% 土地
 
 > Petrichor 岛是一个大胆，充满无限想象力和挑战的实验，我们希望在 Petrichor 岛中创建一座无限接近现实的城市。从自然风景，到建筑，再到经济。换句话说，我们希望未来某一天 Petrichor 岛中的土地/房子能够与现实世界中的土地/房子价格持平。
 
-{% hint style="info" %}
+<!-- {% hint style="info" %} -->
 风险提示：尽管我们对 MetaVoxel 和 Petrichor 岛充满信心，尽管我们对 Petrichor 岛上的土地定价很低，但购买土地依旧存在诸多不确定的潜在风险。因此，我们建议每位玩家购买土地最多不超过 5 块。
-{% endhint %}
+<!-- {% endhint %} -->
 
 ## 关于 Petrichor 岛，你需要知道的
 
